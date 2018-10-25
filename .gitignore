@@ -336,3 +336,11 @@ ASALocalRun/
 # appsettings
 **/appsettings.development.json
 **/appsettings.json
+
+# vscode
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
