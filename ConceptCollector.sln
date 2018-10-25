@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConceptCollector", "ConceptCollector.csproj", "{FEE8684F-F867-4E30-94DF-CD829CA7B90A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE8684F-F867-4E30-94DF-CD829CA7B90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE8684F-F867-4E30-94DF-CD829CA7B90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE8684F-F867-4E30-94DF-CD829CA7B90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE8684F-F867-4E30-94DF-CD829CA7B90A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8779C6EB-E5F3-44F1-8B20-3557C280A5B6}
+	EndGlobalSection
+EndGlobal
