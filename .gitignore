@@ -334,5 +334,5 @@ ASALocalRun/
 .localhistory/
 
 # appsettings
-**/appsettings.Development.json
+**/appsettings.development.json
 **/appsettings.json
